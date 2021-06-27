@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ari-Qu3sadillas
+- 🙋🏼‍♀️ Hi, I’m @Ari-Qu3sadillas
 - 👀 I’m interested in Web and Destkop Development
 - 🌱 I’m currently learning Python, C# and Go
 
