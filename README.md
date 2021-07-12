@@ -1,4 +1,5 @@
-<img align='right' src="https://github.com/Ari-Qu3sadillas/Ari-Qu3sadillas/blob/main/profile.gif" width="230">
+# ✨Ariadne Rangel - Jr Programmer✨
+<img align='right' src="https://github.com/Ari-Qu3sadillas/Ari-Qu3sadillas/blob/main/profile.gif">
 
 ```python
 class Ariadne:
