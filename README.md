@@ -1,4 +1,4 @@
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+<img align='right' src="https://github.com/Ari-Qu3sadillas/Ari-Qu3sadillas/blob/main/profile.gif" width="230">
 
 ```python
 class Ariadne:
