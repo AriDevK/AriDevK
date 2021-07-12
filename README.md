@@ -1,8 +1,25 @@
-- 🙋🏼‍♀️ Hi, I’m @Ari-Qu3sadillas
-- 👀 I’m interested in Web and Destkop Development
-- 🌱 I’m currently learning Python, C# and Go
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
-<!---
-Ari-Qu3sadillas/Ari-Qu3sadillas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```python
+class Ariadne:
+
+    def __init__(self):
+        self.name = 'Ariadne Ragel'
+        self.pronouns = ['She', 'Her']
+        self.code = {
+            'human_languages : ['Spanish', 'English'],
+            'programming_languages' : ['Python', 'C#', 'HTML'. 'CSS', 'Javascript'],
+            'Frameworks_and_libraries' : ['Flask', 'ASP Net Core', 'ReactJS', 'Bootstrap', 'Bulma'],
+            'databases': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
+            'tools': ['GIT', 'GitHub', 'SQLAlchemy']
+        }
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = Ariadne()
+
+
+```
