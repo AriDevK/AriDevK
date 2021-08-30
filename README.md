@@ -1,11 +1,27 @@
 # ✨Ariadne Rangel - Jr Programmer✨
 
 
-# ⚡ Technology Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+<img align= "right" width= "380" src= "https://github.com/Ari-Qu3sadillas/Ari-Qu3sadillas/blob/main/kobayashi.gif"/>
+<p align="left">Hello my name is Ariadne but you can call me Ari, I'm 20 years old and I'm studying
+  my fifth semester of computer systems engineering.
+  
+  I really like Python and I use it as my main language combined with Flask and all of its plugins.
+  
+  Currently learning:
+  - Django
+  - ASP.Net Core
+</p>
+
+<br>
+
+
+<h2>⚡ Technology Stack </h2>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
