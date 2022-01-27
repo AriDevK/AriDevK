@@ -4,7 +4,7 @@
 
 <img align= "right" width= "380" src= "https://github.com/Ari-Qu3sadillas/Ari-Qu3sadillas/blob/main/kobayashi.gif"/>
 <p align="left">Hello my name is Ariadne but you can call me Ari, I'm 20 years old and I'm studying
-  my fifth semester of computer systems engineering.
+  my sixth semester of computer systems engineering.
   
   I really like Python and I use it as my main language combined with Flask and all of its plugins.
   
