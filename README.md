@@ -11,6 +11,7 @@
   Currently learning:
   - Django
   - ASP.Net Core
+  - Xamarin
 </p>
 
 <br>
