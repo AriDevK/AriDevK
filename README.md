@@ -6,11 +6,13 @@
 <p align="left">Hello my name is ??? but you can call me Ari, I'm 20 years old and I'm studying
   my sixth semester of computer systems engineering.
   
-  I really like Python and I use it as my main language combined with Flask and all of its plugins.
+  I really like Python and C#, so I use them as my main languages.
+  Mainly I work with technologies as Flask and ASP.
   
   Currently learning:
   - Django
   - Xamarin
+  - Blazor
 </p>
 
 <br>
