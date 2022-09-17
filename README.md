@@ -12,6 +12,7 @@
   Currently learning:
   - Django
   - Xamarin
+  - IoT
 </p>
 
 <br>
