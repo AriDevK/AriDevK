@@ -2,7 +2,7 @@
 
 
 
-<img align= "right" width= "380" src= "https://github.com/Ari-Qu3sadillas/Ari-Qu3sadillas/blob/main/kobayashi.gif"/>
+<img align= "right" width= "400" src= "https://github.com/Ari-Qu3sadillas/Ari-Qu3sadillas/blob/main/ari.gif"/>
 <p align="left">Hello my name is ??? aka Ari, I'm 21 years old and I'm studying
   my last year of computer systems engineering.
   
