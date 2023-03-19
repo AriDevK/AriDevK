@@ -10,8 +10,8 @@
   Mainly I work with technologies as Flask, ASP and other .NET tools.
   
   Currently learning:
-  - Django
-  - Xamarin
+  - Golang
+  - Xamarin/MAUI
   - IoT
 </p>
 
