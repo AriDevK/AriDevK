@@ -62,17 +62,16 @@
 ![PowerApps](https://img.shields.io/badge/Power%20Apps-742774.svg?style=for-the-badge&logo=power-apps&logoColor=white)
 ![PowerAutomate](https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=power-automate&logoColor=white)
 
-
+<!--
 <br>
 
-
-<h2>📊Github & Wakatime Stats</h2>
-
+<h2>📊Github Stats</h2>
 <span align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ari-Qu3sadillas&show_icons=true&theme=material-palenight) 
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ari-Qu3sadillas&theme=material-palenight	)](https://git.io/streak-stats)
 </span>
+ -->
 
 
