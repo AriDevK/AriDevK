@@ -15,7 +15,7 @@
   Mainly I work with technologies as Flask, ASP and other .NET tools.
   
   Currently learning:
-  - Golang
+  - Blazor
   - Xamarin/MAUI
   - IoT
 </p>
