@@ -8,7 +8,7 @@
 <img align= "right" width= "480" src= "https://github.com/Ari-Qu3sadillas/Ari-Qu3sadillas/blob/main/ari_2.gif"/>
 
 
-<p align="left">Hello my name is ??? aka Ari, I'm 21 years old and I'm studying
+<p align="left">Hello my name is ??? aka Ari, I'm 22 years old and I'm studying
   my last year of computer systems engineering.
   
   I really like Python and C#, so I use them as my main languages.
@@ -17,7 +17,9 @@
   Currently learning:
   - Blazor
   - Xamarin/MAUI
-  - IoT
+  - Testing
+  - Docker
+  - Maybe Angular
 </p>
 <br>
 
