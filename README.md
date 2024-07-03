@@ -12,7 +12,7 @@
  
 | about me ☝🏻🤓 | learning 📚 |
 |-|-|
-| Hello it's me Ari, I'm 22 yo software engineer focused at backend and desktop with interest on design patterns, clean architectures and learn new technologies. <br> <br> Mainly I work using C#, Python and some .NET Tools/Frameworks but sometimes I code on some different things like Golang, Powershell, PHP or even in some embedded devices like Arduino, RasperryPI or ESP32. | ![Xamarin](https://img.shields.io/badge/Xamarin/MAUI-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Gin](https://img.shields.io/badge/gin-%23008ECF.svg?style=for-the-badge&logo=gin&logoColor=white)|
+| Hello it's me Ari, I'm 23 yo software engineer focused at backend and desktop with interest on design patterns, clean architectures and learn new technologies. <br> <br> Mainly I work using C#, Python and some .NET Tools/Frameworks but sometimes I code on some different things like Golang, Powershell, PHP or even in some embedded devices like Arduino, RasperryPI or ESP32. | ![Xamarin](https://img.shields.io/badge/Xamarin/MAUI-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Gin](https://img.shields.io/badge/gin-%23008ECF.svg?style=for-the-badge&logo=gin&logoColor=white)|
 
 
 <p align="center">
