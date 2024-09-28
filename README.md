@@ -2,7 +2,7 @@
  ✨ Better Software = Better World = Better People ✨
 </h1>
  
- ![Banner](https://github.com/AriDevK/AriDevK/blob/main/banner_.png)
+ ![Banner](https://github.com/AriDevK/AriDevK/blob/main/banner-2_.png)
  
 
 
