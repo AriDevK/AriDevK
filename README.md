@@ -1,8 +1,8 @@
 <h1 align="center">
  ✨ Better Software = Better World = Better People ✨
 </h1>
- 
-![ongoing](https://github.com/user-attachments/assets/5e912a56-83c8-456c-bf3a-983caf3aecd2)
+
+![banner](https://github.com/user-attachments/assets/f19773a1-0fdc-4850-bade-bda6318258d9)
 
 
  
