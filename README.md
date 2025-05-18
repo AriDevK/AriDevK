@@ -2,7 +2,7 @@
  ✨ Better Software = Better World = Better People ✨
 </h1>
 
-![banner](https://github.com/user-attachments/assets/f19773a1-0fdc-4850-bade-bda6318258d9)
+![banner](https://github.com/user-attachments/assets/46fd04ad-adff-467e-a0d8-a13d48870616)
 
 
  
