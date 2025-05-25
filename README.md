@@ -21,7 +21,7 @@
 
  
 
- 
+
 [![](https://visitcount.itsvg.in/api?id=AriDevK&label=Profile%20Views&color=11&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
   
@@ -31,12 +31,12 @@
  <table width="100%">
   <tr>
    <td>
-    <img src="https://64.media.tumblr.com/d23fe8e334e0ea2aa6d268ee73af26c4/tumblr_pdp6c2iyhn1xci0e9o1_500.gif" />
+    <img src="https://c.tenor.com/w5EFZpYKe8MAAAAC/tenor.gif" />
    </td>
    <td>
     <table>
      <tr>
-      <td>Job</td>
+      <td>🏢 Job</td>
       <td>Migrating processes to Azure</td>
       <td>
        <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAANHAAADRwF0rlF2AAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAABPNJREFUeJztm2tol1Ucxz9zy1luhV2UzWFXs3IyJZNKqChLIxUpiyJLCgsJK4jwTW8KWhezsJIuiGVRRL1QZBEhVEsKanRBgmhFjSDTVSzBXDnZvr04+8ezZ+e5nPP8//+z0b5w2HbO735+5/acsxpJ/J8xKbQBoTERgNAGhMZEAEIbEBpjKQDNIZSOlQAsAW4KobguhNIY7gS2ALNDKA+ZATXAw8B24E2gN4gVkkKUeklvyWBQ0pxY+6XVsiVEBpwM7AFuHv67A+iOtE8GdgGt1TCm2gE4C/gUuCxS93SM5lpgOrCpKhZVMe0vltSrkeiy0L0daV9aabuq5fz1kvo1GjfG6BolHYm0fyupbrwH4H6ZiS6OHotzay10d4/XANRK2mpxqIT7LDx7LHS9kk4cbwFokNSR4nzfME2UZ7qkYwn07ZUKQCVWgSagE1ieQvMS8Fes7haSd6YPAKcXtsyGMke0VdLPKT0vSQOSWiy8XRl8b1QiA8opbImkQxlOSNKrFt5zJA1l8A2pAjvEcg2BO4D3gJNy0G6x1K3BnA3SUANszkHnhjJE8dEcvV7C+wkyuh1krC5nBhQVsMzBcMkMk7iMixxl/CRzmAo+BGpx269/A3xgqb/VUe+ZwL2OPMkoEL27HHvuNouMWkkHHOVI0p+STi1ge+Eh0CDpVweDf5E02SLnGnff/8PznraXZQhsxGx48uJZYMBS75r+UawH5hbgB6BGcr4bbAa+B6bmpD8MzAIOxeqnAAfJt3QmoQNYWYDfKwPaye88wDZGOw/G8CLOA6wAri4iwDUD2oCvyB+4QczX3h5L224K9t4w9gEXDutyhmsGPOXI8w5256cBSx11J6ENWOvL7OLMdbinm23bC+YSpN5RVhoeAxp9GPMGoBZ40lF2J9CV0PY50O8oLw0zgAe9OHOul+s91unlGTLXeMhMQ7+kWRk6vTZCDXLfrX0naVIO2c/5eJqCHTl0Ogeg3cOQdTkNqJPU6SE/CYOSFubUjaTMZXAmZtNzgsOo+g04A/g7J/0M4AugxUFHGj4GrshLnDUJPo6b8wBbye88mEvR1cBRRz1JuBxYlZc4LQPmA1/itlT2Yz5e/uHAU8LtwGsefDb8iDknZAY1zbnNGe027MDPeYDXgZc9eeM4G3NYykbC5LDScwKa7TIBWcpxkvZ66LahT9IpWTptPVyHGfuu2A384MEXxTHMLnF/QTlgttsPZVJZorLBM+KLs6LtUC6RdNTTjigGJJ2bpite0SjpoIci2zV30XKPhx027EzTE694wlPJDWlKCpRtnvbEcVWSjugy2IJ5quK67vdgzvxe5/EM1AN7gUUF5XwNLASG4g3RSXAT7s4DPENlnAezjq8CDhSUswBz+zQKpQxYBHyG+7VTH2bjE7/pLTcWAx9iHlD5Yj8wBzgSrSxlgO+d24tU3nkwD6s2FpQxE3PNPhIy73d88I+kpqTJpULlFU9bSzgct7lG0gv4PVP9BHikYK+44nhMNiwoIGM7sK70h8+9QAhMBc4H5gHLKPawehDzFXkfjL0A1GEuUeZijLxg+PfzKO+jzo+AKyFsAJoZ6WTp55Qq6V8BvFuNAExjdI/Ox+12qRLoBuaVMwAlR6M92gacVi4FFcCGogFowrzqbsV82xtv+H2sTYJVx1j5n6FgmAhAaANCYyIAoQ0IjX8BZx1MrL4gKvYAAAAASUVORK5CYII=" />
@@ -44,19 +44,26 @@
       </td>
      </tr>
      <tr>
-      <td>Freelancing</td>
-      <td>VitalSuite: Medical ERP Suite</td>
+      <td>💸 Freelancing</td>
+      <td>Vitalsuite: Medical ERP Suite</td>
       <td>
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
         <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
       </td>
      </tr>
      <tr>
-      <td>Personal</td>
+      <td>🐶 Personal</td>
       <td>Foodward: Restaurant loyalty cards</td>
       <td>
        <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
        <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+      </td>
+     </tr>
+     <tr>
+      <td>🐶 Personal</td>
+      <td>RocketPS: Web framework</td>
+      <td>
+       <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAANHAAADRwF0rlF2AAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAABNxJREFUeJztm1toHFUYx3+zloZqxEt1q6J9EVOqLRWs1NuD1KAV4g1UvOBDoUrfLIqoiA9CoSAKRtAHb4igFKRokYraglCzUWstKNqmxgu0FbXaKBjTLmn8fPh2zGQz5zKzZ3aSdH8wsDtn9vu+859zvjlnztlIRDiRqZQdQNl0BCg7gLLpCFB2AGXTEaDsAMomiwAV4CHge0DmwDEEXBtlGAhtAh7zvXiWMOwrQBU4AHQVG0/bGfHtAquZe5UH+MZXgKtyGP8nx2/azaCvAFdnMLoVOB/oBi4D9maNqo3UfHJAN/AnMM/D4BBwKVBPnFsE7AR68kRYIAKc7dMCVuFXeYBtTK08wG9AL5pEZxJDwBEfAbL0/7MM5w+iIvyawVbRDILfQChL/78LWG4oGwZuAEYy2CuSGrgFqABXZDDaBewAlhjKvwZuBP7OYLMoBsAtwHLgtIyGq8BHwGJD+S7gFuBYRrsh+QMd0jsFyNL8kywGtqNPgDQ+Bu4ExnPab5UB9CngFCDPACimB/gQOMNQ/h5wNzDRgo+8DMYfimoBMSvQR2O3oXwLsI7G3WgjtfiDbSB0HvBzIIc7gD6mjxFiHgSeC+TLRR04nUYOsrWAVu9+kl5gM+YBVT+wMaA/G7tJJGCbAK30/zRuBV6z+HwSeDawzzQGk1/a1QJi7gOet5Q/ArxSgN8ktSnfRCTtWCAidSmOjQa/iMhJIrK5IL//ikg16c/UAlYB8wu8C08AjxrKJtCW8n4BfoeBw8kTJgFC9/80NgHrDWXjwB3AF4F9DjafKFOACHgBrWgaY8DDgX16CRABVwZ2bGJ/4zDxU2B/teYTaQIsBc4M7DiNl4CV6AzRxOqA/kaAfc0n0wYmRTz+mgN5AB0G21gCPB3Q76ekDLnTWkCR/X8n+s7QVfnbgc8wzybzMK3/Q7oA1wR0GnMceApt0gct1y1Ah8Vvo+P1kAyknWyeDFXRl5ghOQDcawogwUrgTYp5ezyOCjrWXNDcAkL3/y1ok7dVPkJngzWKe3W+h5TKw/QkGEqAo8DjaHO2sQh4HVgTyK+JaY+/mGYBQiTAL4F7gO8c190GvAwsDODTRWoCBKZMhrpE5FiLE41+EZkv5olOPNHqb8FPHs41xZNsAZeTfwX4MLAW9wRmGfAW5rWDIvgR+MVUmEyCefv/djTR2SofJ7rdtLfyYOn/MFWArP2/ju4YWYNFYTTRbUPf+ZWxx8Dc/5lMglknQPvQV9pfOa67GXiV9DXDMeAd4FAGvxFwEXAT/gu2VgHiZNCTIaFsFZGTTUlFJhPdixYboyJyicOG7egVkQmPWP8SkYrNVvxhrYexOPBTHMGtEJFvHXbecNjwOT7xiPcDl504B/gmwP2Yt75EwAbgc+Bih53I01+rNqwJEPi/Bez1UFNEm9SpKUqe01Dbl1ERWea6O5bjevHrAte5bEUishD43VNR0KHrOibX9PrQRFf1/H3MUeBdsu0cidD5Qh/uJHgcXZcctRoUkT50oTILP6ArvEsp/gVKXvagm7SszCPf/P/CxjGTcU2/AR0IzdQ72CruBIh2gRHMa/izlTpwAZrbrFSAI4WH036ewaPyoALcj+6Zm+0Iuu9nA7rS7EWW7fJzks4/RsoOoGw6ApQdQNl0BCg7gLI54QX4D30HaRMewoAWAAAAAElFTkSuQmCC" />
       </td>
      </tr>
     </table>
