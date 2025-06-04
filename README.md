@@ -52,6 +52,14 @@
       </td>
      </tr>
      <tr>
+      <td>💸 Freelancing</td>
+      <td>???: Playground POS and System</td>
+      <td>
+        <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
+        <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+      </td>
+     </tr>
+     <tr>
       <td>🐶 Personal</td>
       <td>Foodward: Restaurant loyalty cards</td>
       <td>
