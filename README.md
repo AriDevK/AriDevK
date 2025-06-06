@@ -31,7 +31,7 @@
  <table width="100%">
   <tr>
    <td>
-    <img src="https://c.tenor.com/w5EFZpYKe8MAAAAC/tenor.gif" />
+    <img src="https://github.com/user-attachments/assets/c1ae3ba3-1f54-46d2-b88c-4f0ba527dd99" />
    </td>
    <td>
     <table>
