@@ -6,9 +6,9 @@
 
 
  
-| about me ☝🏻🤓 | learning 📚 |
-|-|-|
-| Hello it's me Ari, I'm 23 yo software engineer focused at backend and desktop with interest on design patterns, clean architectures and learn new technologies. <br> <br> Mainly I work using C#, Python and some .NET Tools/Frameworks but sometimes I code on some different things like Golang, Powershell, PHP or even in some embedded devices like Arduino, RasperryPI or ESP32. |  ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)  ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)   |
+| about me ☝🏻🤓 | learning 📚 | counter 📈 |
+|-|-| - |
+| Hello it's me Ari, I'm 23 yo software engineer focused at backend and desktop with interest on design patterns, clean architectures and learn new technologies. <br> <br> Mainly I work using C#, Python and some .NET Tools/Frameworks but sometimes I code on some different things like Golang, Powershell, PHP or even in some embedded devices like Arduino, RasperryPI or ESP32. |  ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)  ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)   | ![](https://count.getloli.com/@aridevk?name=aridevk&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0) |
 
 
 <p align="center">
@@ -20,11 +20,6 @@
 <br>
 
  
-
-
-[![](https://visitcount.itsvg.in/api?id=AriDevK&label=Profile%20Views&color=11&icon=3&pretty=true)](https://visitcount.itsvg.in)
-
-  
 
 
  ## ⌨️ Working on
