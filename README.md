@@ -8,7 +8,7 @@
  
 | about me ☝🏻🤓 | learning 📚 |
 |-|-|
-| Hello it's me Ari, I'm 23 yo software engineer focused at backend and desktop with interest on design patterns, clean architectures and learn new technologies. <br> <br> Mainly I work using C#, Python and some .NET Tools/Frameworks but sometimes I code on some different things like Golang, Powershell, PHP or even in some embedded devices like Arduino, RasperryPI or ESP32. |  ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)  ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)   |
+| Hello it's me Ari, I'm 24 yo software engineer focused at backend and desktop with interest on design patterns, clean architectures and learn new technologies. <br> <br> Mainly I work using C#, Python and some .NET Tools/Frameworks but sometimes I code on some different things like Golang, Powershell, PHP or even in some embedded devices like Arduino, RasperryPI or ESP32. |  ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)  ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)   |
 
 
 <p align="center">
@@ -59,6 +59,14 @@
       <td>
        <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
        <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+      </td>
+     </tr>
+     <tr>
+      <td>🐶 Personal</td>
+      <td>Little Brain: Productivity minimalist app</td>
+      <td>
+       <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+       <img src="https://img.shields.io/badge/swift%20ui-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
       </td>
      </tr>
      <tr>
