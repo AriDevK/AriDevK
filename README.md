@@ -8,7 +8,7 @@
  
 | about me ☝🏻🤓 | learning 📚 |
 |-|-|
-| Hello it's me Ari, I'm 24 yo software engineer focused at backend and desktop with interest on design patterns, clean architectures and learn new technologies. <br> <br> Mainly I work using C#, Python and some .NET Tools/Frameworks but sometimes I code on some different things like Golang, Powershell, PHP or even in some embedded devices like Arduino, RasperryPI or ESP32. |  ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)  ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)   |
+| Hello it's me Ari, I'm 24 yo software engineer focused at backend and desktop with interest on design patterns, clean architectures and learn new technologies. <br> <br> Mainly I work using C#, Python and some .NET Tools/Frameworks but sometimes I code on some different things like Golang, Powershell, PHP or even in some embedded devices like Arduino, RasperryPI or ESP32. | ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)   |
 
 
 <p align="center">
