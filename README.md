@@ -31,6 +31,17 @@
    <td>
     <table>
      <tr>
+      <td>🍵 Entrepreneurship</td>
+      <td>
+       <a href="https://github.com/Squarehead-Labs" target="_blank">
+        !Squarehead Labs
+       </a>
+      </td>
+      <td>
+               <img src="https://img.shields.io/badge/Github-1C1E24?style=for-the-badge&logo=github&logoColor=#D04A37" />
+      </td>
+     </tr>
+     <tr>
       <td>🏢 Job</td>
       <td>Migrating processes to Azure</td>
       <td>
@@ -50,6 +61,21 @@
       <td>Moments Play: Playground POS and System</td>
       <td>
         <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
+        <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+      </td>
+     </tr>
+      <tr>
+      <td>💸 Freelancing</td>
+      <td>Cherry Giftshop: eCommerce</td>
+      <td>
+        <img src="https://img.shields.io/badge/woocommerce-96588A?style=for-the-badge&logo=woo&logoColor=white" />
+      </td>
+     </tr>
+      <tr>
+      <td>💸 Freelancing</td>
+      <td>Garden System: Finance and Document Control System</td>
+      <td>
+        <img src="https://img.shields.io/badge/WinForms-5A677A?style=for-the-badge&logo=dotnet&logoColor=FFFFFF" />
         <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
       </td>
      </tr>
