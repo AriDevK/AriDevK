@@ -23,11 +23,12 @@
 
 
  ## ⌨️ Working on
+
+ <img src="https://github.com/user-attachments/assets/9e8c7e9e-cfa1-4d1e-b84b-b7cb06953676" />
+
+
  <table width="100%">
   <tr>
-   <td>
-    <img src="https://github.com/user-attachments/assets/c1ae3ba3-1f54-46d2-b88c-4f0ba527dd99" />
-   </td>
    <td>
     <table>
      <tr>
@@ -38,7 +39,7 @@
        </a>
       </td>
       <td>
-               <img src="https://img.shields.io/badge/Github-1C1E24?style=for-the-badge&logo=github&logoColor=#D04A37" />
+        <img src="https://img.shields.io/badge/Github-1C1E24?style=for-the-badge&logo=github&logoColor=#D04A37" />
       </td>
      </tr>
      <tr>
