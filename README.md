@@ -8,7 +8,7 @@
  
 | about me ☝🏻🤓 | learning 📚 |
 |-|-|
-| Hello it's me Ari, I'm 24 yo software engineer focused at backend and desktop with interest on design patterns, clean architectures and learn new technologies. <br> <br> Mainly I work using C#, PHP, Python. | ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=flat&logo=stripe&logoColor=ffffff) ![swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)  ![swiftui](https://img.shields.io/badge/swift%20ui-007AFF?style=flat&logo=swift&logoColor=white) |
+| Hello it's me Ari, I'm 24 yo software engineer focused at backend and desktop with interest on design patterns, clean architectures and learn new technologies. | ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=flat&logo=stripe&logoColor=ffffff) ![swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)  ![swiftui](https://img.shields.io/badge/swift%20ui-007AFF?style=flat&logo=swift&logoColor=white) |
 
 
 <p align="center">
