@@ -77,7 +77,6 @@
       <td>💸 Freelancing</td>
       <td>Garden System: Finance and Document Control</td>
       <td>
-        <img src="https://img.shields.io/badge/WinForms-5A677A?style=flat&logo=dotnet&logoColor=FFFFFF" />
         <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
       </td>
      </tr>
