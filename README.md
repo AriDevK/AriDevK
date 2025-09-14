@@ -28,7 +28,7 @@
  <table width="100%">
   <tr>
    <td>
-    <img src="https://github.com/user-attachments/assets/2e65b001-4110-4e53-b4f6-3ec401b6bc76" />
+    <img src="https://github.com/user-attachments/assets/0aec5014-c63e-4b8f-87b1-617a1489f6db" />
    </td>
    <td>
     <table>
