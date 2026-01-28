@@ -2,8 +2,7 @@
  ✨ a better world starts with better software ✨
 </h1>
 
-![banner](https://github.com/user-attachments/assets/46fd04ad-adff-467e-a0d8-a13d48870616)
-
+<img width="2100" height="798" alt="Photopea Logo" src="https://github.com/user-attachments/assets/79eb56d8-7704-4bf2-ac2d-04fb9d334233" />
 
  
 | about me ☝🏻🤓 | learning 📚 |
