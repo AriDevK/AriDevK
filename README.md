@@ -50,6 +50,7 @@
       <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" />
       <img src="https://img.shields.io/badge/gin-%2300ADD8.svg?style=flat&logo=go&logoColor=white" />
       <img src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white" />
+      <img src="https://img.shields.io/badge/htmx-%233366CC.svg?style=flat&logo=htmx&logoColor=white" />
      </td>
   </tr>
  <table>
