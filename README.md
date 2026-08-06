@@ -31,11 +31,11 @@
    <td>Stack</td>
   </tr>
   <tr>
-   <td rowspan="2" width="30%">
+   <td rowspan="3" width="30%">
     <img src="https://github.com/user-attachments/assets/9e8e4822-c42f-4ab8-8994-e2e1a00d0b45" />
    </td>
    <td>💸 Freelance</td>
-      <td>Vitalsuite: Medical ERP Suite</td>
+      <td>Vitalsuite - Medical ERP Suite</td>
       <td>
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
         <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" />
@@ -44,7 +44,7 @@
       </td>
   </tr>
   <tr>
-     <td>🐶 Personal</td>
+     <td>💸 Freelance</td>
      <td>Kickstart - Project secrets generator</td>
      <td>
       <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" />
@@ -52,6 +52,15 @@
       <img src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white" />
       <img src="https://img.shields.io/badge/htmx-%233366CC.svg?style=flat&logo=htmx&logoColor=white" />
      </td>
+  </tr>
+  <tr>
+   <td>💸 Freelance</td>
+      <td>Spaniel - Internal Helpdesk</td>
+      <td>
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white" />
+      </td>
   </tr>
  <table>
 
