@@ -170,5 +170,5 @@
 <h2>📊Github Stats</h2>
 <span align="center">
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AriDevk&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=AriDevK&theme=catppuccin-latte&hide_border=true)](https://git.io/streak-stats) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=AriDevK&theme=catppuccin-latte&hide_border=true)](https://git.io/streak-stats) | ![img](./profile/stats.svg) |
 | --- | --- |
