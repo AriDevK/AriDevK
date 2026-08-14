@@ -2,7 +2,8 @@
  ✨ a better world starts with better software ✨
 </h1>
 
-<img width="2100" height="798" alt="Photopea Logo" src="https://github.com/user-attachments/assets/79eb56d8-7704-4bf2-ac2d-04fb9d334233" />
+<img width="100%" src="https://github.com/user-attachments/assets/553d65bc-1600-41cb-b35b-bf782e5ce0de" />
+
 
  
 | about me ☝🏻🤓 | learning 📚 |
@@ -25,14 +26,14 @@
 
  <table width="100%">
   <tr>
-   <td>Miku 🩵💙</td>
+   <td>Me✨✨</td>
    <td>Kind</td>
    <td>Project</td>
    <td>Stack</td>
   </tr>
   <tr>
-   <td rowspan="3" width="30%">
-    <img src="https://github.com/user-attachments/assets/9e8e4822-c42f-4ab8-8994-e2e1a00d0b45" />
+   <td rowspan="4" width="30%">
+    <img src="https://github.com/user-attachments/assets/daacbb41-b264-40c7-969c-44cba1ba9f79" />
    </td>
    <td>💸 Freelance</td>
       <td>Vitalsuite - Medical ERP Suite</td>
@@ -51,6 +52,7 @@
       <img src="https://img.shields.io/badge/gin-%2300ADD8.svg?style=flat&logo=go&logoColor=white" />
       <img src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white" />
       <img src="https://img.shields.io/badge/htmx-%233366CC.svg?style=flat&logo=htmx&logoColor=white" />
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white">
      </td>
   </tr>
   <tr>
@@ -60,6 +62,15 @@
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
         <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white" />
+      </td>
+  </tr>
+  <td>💸 Freelance</td>
+      <td>Sekai - Application Sandbox w/Impersonation</td>
+      <td>
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/traefik-%2324A1C1.svg?style=flat&logo=traefikproxy&logoColor=white" />
+        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white">
       </td>
   </tr>
  <table>
