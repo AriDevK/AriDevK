@@ -35,7 +35,7 @@
    <td rowspan="4" width="30%">
     <img src="https://github.com/user-attachments/assets/daacbb41-b264-40c7-969c-44cba1ba9f79" />
    </td>
-   <td>💸 Freelance</td>
+   <td>🧃 Personal</td>
       <td>Vitalsuite - Medical ERP Suite</td>
       <td>
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
@@ -45,7 +45,7 @@
       </td>
   </tr>
   <tr>
-     <td>💸 Freelance</td>
+     <td>🧃 Personal</td>
      <td>Kickstart - Project secrets generator</td>
      <td>
       <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" />
@@ -56,7 +56,7 @@
      </td>
   </tr>
   <tr>
-   <td>💸 Freelance</td>
+   <td>🧃 Personal</td>
       <td>Spaniel - Internal Helpdesk</td>
       <td>
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
@@ -64,7 +64,7 @@
         <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white" />
       </td>
   </tr>
-  <td>💸 Freelance</td>
+  <td>🧃 Personal</td>
       <td>Sekai - Application Sandbox w/Impersonation</td>
       <td>
         <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
