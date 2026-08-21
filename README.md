@@ -5,11 +5,27 @@
 <img width="100%" src="https://github.com/user-attachments/assets/553d65bc-1600-41cb-b35b-bf782e5ce0de" />
 
 
- 
-| about me ☝🏻🤓 | learning 📚 |
-|-|-|
-| Hello it's me Ari, I'm 25 yo software engineer focused at backend and desktop with interest on design patterns, clean architectures and learn new technologies. | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=flat&logo=amazons3&logoColor=white)  ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)  | 
-
+<table>
+ <tr>
+  <td>about me ☝🏻🤓</td>
+  <td>learning 📚</td>
+ </tr>
+ <tr>
+  <td>
+   Hello it's me Ari, I'm a 25 y/o software engineer focused at backend and desktop with interest on design patterns, clean architectures and learn new technologies. <br> <br>
+   right now: <br>
+   <ul>
+    <li>🎓 Pursuing a Master's in Software Engineering & DevOps</li>
+    <li>☁️ Preparing for the AWS Solutions Architect certification</li>
+   </ul>
+  </td>
+  <td>
+   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
+   <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=flat&logo=amazons3&logoColor=white" />
+   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white" />
+  </td>
+ </tr>
+</table>
 
 <p align="center">
  
