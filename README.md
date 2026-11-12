@@ -21,8 +21,20 @@
   </td>
   <td>
    <img src="https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
-   <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=flat&logo=amazons3&logoColor=white" />
-   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS%20S3-%234ea94b?style=flat&logo=amazons3&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS%20EBS-%234ea94b?style=flat&logo=amazons3&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS%20VPC-%236933FF.svg?style=flat&logo=amazon-aws&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS%20ALB%20ELB-%236933FF?style=flat&logo=amazons3&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS%20API%20Gateway-%236933FF?style=flat&logo=amazons3&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS%20Route53-%236933FF?style=flat&logo=amazons3&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS%20Cloudfront-%236933FF?style=flat&logo=amazons3&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS%20SQS-%23FD366E?style=flat&logo=amazons3&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS%20SNS-%23FD366E?style=flat&logo=amazons3&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS%20Lambda-%23FF6600.svg?style=flat&logo=amazon-aws&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS%20EC2-%23FF6600.svg?style=flat&logo=amazon-aws&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS%20Fargate-%23FF6600.svg?style=flat&logo=amazon-aws&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS%20RDS%20Aurora-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white" />
   </td>
  </tr>
 </table>
